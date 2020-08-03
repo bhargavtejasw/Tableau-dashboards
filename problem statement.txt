@@ -1,0 +1,31 @@
+Objective: The objective of this project is to understand the product data.
+The description of the dataset is mentioned below.
+Use the default data set (excel file) available.
+Problem statements:
+Based on the excel file provided, we are going to analyze and develop a dashboard to
+understand the product data. Use filters, parameters and actions wherever possible to
+make the dashboard interactive
+ Create an interactive map to analyze the worldwide sales and profit. Include map
+layers and map styles to enhance the visualization.
+ Create a filter to display top 3 products under top 3 segments.
+ Interactive analysis to display the average gross sales of a product under each
+segment, allowing only one segment data to be displayed at once.
+ Use customized shapes to visualize product related data in a scatter plot chart.
+ Create a motion chart to compare the sales and profit through the years.
+ Annotate the day wise profit line chart to indicate the peaks and also enable drop
+lines.
+ Add a reference line to display the average sales line with 50% confidence
+interval for a bar chart with country, segment wise sales. Create a dynamic
+parameter to allow user’ to decide the percentage of confidence interval.
+ Add go to URL actions in the final dashboard which directs the user to the
+respective countries Wikipedia page.
+ Include images or logos in the dashboard which is linked to a website.
+ Create phone and tablet layouts to enable mobility of the dashboard.
+ Create a box plot chart to find the outliers in every country.
+ Use set actions to create a proportional brushing for segment wise products.
+Lab environment: Use Tableau desktop installed in your system.
+Domain: Retail, Finance
+Hint for doing the project:
+Interactive sample dashboard to understand the data. Multiple features, various charts
+suitable to the respective problem statements are to be used at points where chart type is
+not specified.
